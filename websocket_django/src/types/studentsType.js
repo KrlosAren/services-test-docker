@@ -1,0 +1,9 @@
+export const studentsType = {
+  SET_STUDENT: "[students] SET_STUDENT",
+  ALL_STUDENTS: "[students] ALL_STUDENTS",
+  DELETE_STUDENT: "[students] DELETE_STUDENT",
+  UPDATE_STUDENT: "[students] UPDATE_STUDENT",
+  EDIT_STUDENT: "[students] EDIT_STUDENT",
+
+  SET_DISABLED_BUTTONS: "[UI] SET_DISABLED_BUTTONS",
+};
